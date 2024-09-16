@@ -4,9 +4,11 @@
 
 Welcome to my RedM script! This script is provided for free, and you're welcome to use, modify, and share it as long as you follow the terms outlined below.
 
-## Usage
+## Installation
 
-Feel free to use this script in your RedM server or project without any cost. You can also modify and customize it to fit your needs.
+1. **Place the Script**: Copy the entire folder into the `resources` directory of your server.
+2. **Configure the Server**: Open your `server.cfg` file and ensure the script is loaded by adding: ensure euros_LogoOnScreen
+   
 
 ## Customization Instructions
 
@@ -28,6 +30,7 @@ All editable sections and instructions for modifications are commented in the `i
 If you need any support or have questions about this script, feel free to join my Discord server for assistance:
 
 [Join Discord](https://discord.gg/TfhKUkwKvf)
+
 
 
 Happy scripting! 🚀
