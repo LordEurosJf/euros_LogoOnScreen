@@ -23,7 +23,7 @@ All editable sections and instructions for modifications are commented in the `i
 
 - **Free to Use**: You are allowed to use this script in any of your projects without any cost.
 - **No Resale**: Reselling or redistributing this script for profit is strictly prohibited.
-- **Credit Required**: When using this script, please give credit to the original author. The credit should be attributed to **LordEuros**.
+
 
 ## Support
 
